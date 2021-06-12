@@ -1,4 +1,4 @@
-# XCP is a Simple Control Panel for  Local sites
+# XCP is a Control Panel for XAMPP sites
 
 ## What is XCP?
 
